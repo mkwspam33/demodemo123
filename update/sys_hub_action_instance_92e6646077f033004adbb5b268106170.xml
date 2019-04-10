@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Demo123Action">d145e42077f033004adbb5b26810613e</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Demodmemo">51b224ec77b033004adbb5b2681061a3</flow>
+        <order>3</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-10 13:41:22</sys_created_on>
+        <sys_id>92e6646077f033004adbb5b268106170</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Demo123" source="sn_demo123">70a2a0ec77b033004adbb5b2681061ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo123">70a2a0ec77b033004adbb5b2681061ad</sys_scope>
+        <sys_update_name>sys_hub_action_instance_92e6646077f033004adbb5b268106170</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-10 13:41:22</sys_updated_on>
+        <ui_id>d51f7ffd-e674-4f60-bc74-1b89f6479c0d</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=92e6646077f033004adbb5b268106170"/>
+    <sys_element_mapping action="delete_multiple" query="id=92e6646077f033004adbb5b268106170"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>input1</field>
+        <id>92e6646077f033004adbb5b268106170</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-10 13:41:22</sys_created_on>
+        <sys_id>56e6646077f033004adbb5b268106175</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-10 13:41:22</sys_updated_on>
+        <table>var__m_sys_hub_action_input_d145e42077f033004adbb5b26810613e</table>
+        <value>{{5c12c062-d75f-4f25-bade-f625d9b7c03a.Record}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>input2</field>
+        <id>92e6646077f033004adbb5b268106170</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-10 13:41:22</sys_created_on>
+        <sys_id>dae6646077f033004adbb5b268106175</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-10 13:41:22</sys_updated_on>
+        <table>var__m_sys_hub_action_input_d145e42077f033004adbb5b26810613e</table>
+        <value>{{5c12c062-d75f-4f25-bade-f625d9b7c03a.Table}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>input3</field>
+        <id>92e6646077f033004adbb5b268106170</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-10 13:41:22</sys_created_on>
+        <sys_id>1ae6646077f033004adbb5b268106175</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-10 13:41:22</sys_updated_on>
+        <table>var__m_sys_hub_action_input_d145e42077f033004adbb5b26810613e</table>
+        <value>{{93714a04-e528-4d7d-8712-9912537caa9c.Task}}</value>
+    </sys_element_mapping>
+</record_update>

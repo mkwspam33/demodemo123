@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>demodmemo</internal_name>
+        <label_cache>[{"name":"93714a04-e528-4d7d-8712-9912537caa9c.sampleoutput","label":"2➛SampleOutput","reference_display":"SampleOutput","type":"string","base_type":"string"},{"name":"93714a04-e528-4d7d-8712-9912537caa9c.Task","label":"2➛Task","reference":"task","reference_display":"Task","type":"document_id","base_type":"document_id"},{"name":"5c12c062-d75f-4f25-bade-f625d9b7c03a.Record","label":"1➛Problem Record","reference":"problem","reference_display":"Problem","type":"reference","base_type":"reference"},{"name":"5c12c062-d75f-4f25-bade-f625d9b7c03a.Table","label":"1➛Problem Table","reference":"problem","reference_display":"Problem","type":"table_name","base_type":"table_name"},{"name":"Created_1.current","label":"Trigger➛Incident Record","reference":"incident","reference_display":"Incident","type":"reference","base_type":"reference"},{"name":"93714a04-e528-4d7d-8712-9912537caa9c.customoutput","label":"2➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"d51f7ffd-e674-4f60-bc74-1b89f6479c0d.output1","label":"3➛Output1","reference_display":"Output1","type":"string","base_type":"string"},{"name":"d51f7ffd-e674-4f60-bc74-1b89f6479c0d.output2","label":"3➛Output2","reference_display":"Output2","type":"string","base_type":"string"},{"name":"d51f7ffd-e674-4f60-bc74-1b89f6479c0d.output3","label":"3➛Output3","reference_display":"Output3","type":"string","base_type":"string"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Demodmemo</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-10 13:23:00</sys_created_on>
+        <sys_id>51b224ec77b033004adbb5b2681061a3</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Demodmemo</sys_name>
+        <sys_package display_value="Demo123" source="sn_demo123">70a2a0ec77b033004adbb5b2681061ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo123">70a2a0ec77b033004adbb5b2681061ad</sys_scope>
+        <sys_update_name>sys_hub_flow_51b224ec77b033004adbb5b2681061a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-10 13:41:21</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=51b224ec77b033004adbb5b2681061a3"/>
+    <sys_variable_value action="delete_multiple" query="document_key=51b224ec77b033004adbb5b2681061a3"/>
+</record_update>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="ITSM Spoke" source="sn_itsm_spoke">7f1c13c0731103005e7d234ffff6a7da</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-10 13:29:02</sys_created_on>
+        <sys_id>7114ecec77b033004adbb5b26810610c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Demo123" source="sn_demo123">70a2a0ec77b033004adbb5b2681061ad</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-10 13:29:02</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

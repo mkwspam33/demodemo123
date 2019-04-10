@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_plan">
+    <sys_hub_action_plan action="INSERT_OR_UPDATE">
+        <action_id display_value="Demo123Action">d145e42077f033004adbb5b26810613e</action_id>
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_hub_action_plan","id":"a2a6a06077f033004adbb5b268106169","name":"plan"}}</plan>
+        <snapshot>42a6606077f033004adbb5b2681061d5</snapshot>
+        <sys_class_name>sys_hub_action_plan</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-10 13:40:17</sys_created_on>
+        <sys_id>a2a6a06077f033004adbb5b268106169</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d145e42077f033004adbb5b26810613e</sys_name>
+        <sys_package display_value="Demo123" source="sn_demo123">70a2a0ec77b033004adbb5b2681061ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo123">70a2a0ec77b033004adbb5b2681061ad</sys_scope>
+        <sys_update_name>sys_hub_action_plan_a2a6a06077f033004adbb5b268106169</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-10 13:40:17</sys_updated_on>
+    </sys_hub_action_plan>
+</record_update>

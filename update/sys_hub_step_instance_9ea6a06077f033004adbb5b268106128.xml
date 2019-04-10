@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_step_instance">
+    <sys_hub_step_instance action="INSERT_OR_UPDATE">
+        <action display_value="Demo123Action">8ea6a06077f033004adbb5b268106106</action>
+        <cid>b04d49bd-4434-4600-a565-229c83da54cc</cid>
+        <extended_inputs/>
+        <extended_outputs/>
+        <icon/>
+        <inputs/>
+        <inputs/>
+        <label>CreateIncidet</label>
+        <order>1</order>
+        <outputs/>
+        <step_type display_value="Create Task">07973e960b233200cbd9e240e0ea604e</step_type>
+        <sys_class_name>sys_hub_step_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-10 13:40:16</sys_created_on>
+        <sys_id>9ea6a06077f033004adbb5b268106128</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>CreateIncidet</sys_name>
+        <sys_package display_value="Demo123" source="sn_demo123">70a2a0ec77b033004adbb5b2681061ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo123">70a2a0ec77b033004adbb5b2681061ad</sys_scope>
+        <sys_update_name>sys_hub_step_instance_9ea6a06077f033004adbb5b268106128</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-10 13:40:16</sys_updated_on>
+    </sys_hub_step_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=9ea6a06077f033004adbb5b268106128"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>9ea6a06077f033004adbb5b268106128</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-10 13:40:16</sys_created_on>
+        <sys_id>5ea6a06077f033004adbb5b26810612f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-10 13:40:16</sys_updated_on>
+        <value>incident</value>
+        <variable display_value="">9b6832d60b233200cbd9e240e0ea601c</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=9ea6a06077f033004adbb5b268106128"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>create_record_field_values</field>
+        <id>9ea6a06077f033004adbb5b268106128</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-10 13:40:16</sys_created_on>
+        <sys_id>1aa6a06077f033004adbb5b26810612f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-10 13:40:16</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_07973e960b233200cbd9e240e0ea604e</table>
+        <value>{{action.input1}}^=</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>create_record_table_name</field>
+        <id>9ea6a06077f033004adbb5b268106128</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-10 13:40:16</sys_created_on>
+        <sys_id>daa6a06077f033004adbb5b26810612f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-10 13:40:16</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_07973e960b233200cbd9e240e0ea604e</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>
